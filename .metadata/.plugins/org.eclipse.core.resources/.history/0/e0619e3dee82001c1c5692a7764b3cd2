@@ -1,0 +1,12 @@
+package cracteclasses;
+
+public class Objetopatinete {
+
+	public static void main(String[] args) {
+		Patinete x= new Patinete();
+		
+		
+
+	}
+
+}

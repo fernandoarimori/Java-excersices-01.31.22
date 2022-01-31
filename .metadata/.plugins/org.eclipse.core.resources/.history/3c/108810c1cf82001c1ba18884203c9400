@@ -1,0 +1,10 @@
+package cracteclasses;
+
+public class Aviao {
+
+	String m,l,d;
+	double peso
+	int pas;
+	
+	
+}

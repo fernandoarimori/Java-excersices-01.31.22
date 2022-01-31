@@ -1,0 +1,10 @@
+package cracteclasses;
+
+public class Objetofuncionario {
+
+	public static void main(String[] args) {
+		Funcionario x= new Funcionario();
+		
+	}
+
+}

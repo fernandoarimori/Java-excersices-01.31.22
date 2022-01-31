@@ -1,0 +1,7 @@
+package cracteclasses;
+
+public class Funcionario {
+	String nome;
+	int idade, regs, tempo;
+	
+}

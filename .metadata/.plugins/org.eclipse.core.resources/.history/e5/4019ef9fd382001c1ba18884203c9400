@@ -1,0 +1,15 @@
+package cracteclasses;
+
+public class Peletronico {
+	String marca, objeto, sis;
+	int lacamento, modelo, memoria;
+	
+	
+	
+	public void status() {
+		System.out.println();
+		System.out.println();
+		System.out.println();
+	}
+
+}

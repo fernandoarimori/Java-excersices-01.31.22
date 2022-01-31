@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\ferna\Desktop\Generation Brasil\CLASS 45\BLOCO1\JAVA  exercise 31.01\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+932684231.index
+760091825.index

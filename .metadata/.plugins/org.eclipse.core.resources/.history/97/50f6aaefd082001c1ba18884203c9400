@@ -1,0 +1,10 @@
+package cracteclasses;
+
+public class Objetoaviao {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

@@ -1,0 +1,11 @@
+package cracteclasses;
+
+public class Objetocliente {
+
+	public static void main(String[] args) {
+		Cliente x1= new Cliente();
+		x1.status();
+
+	}
+
+}

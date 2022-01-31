@@ -1,0 +1,20 @@
+package cracteclasses;
+
+public class Cliente {
+	
+	//atributos
+	String nome, sexo;
+	int idade;
+	float al, peso;
+	boolean feliz;
+	
+	//metodos
+	public void humor()
+	{
+		this.feliz=true;
+	}
+	
+	
+	
+
+}

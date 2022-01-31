@@ -1,0 +1,18 @@
+package cracteclasses;
+
+public class Objetocliente {
+
+	public static void main(String[] args) {
+		Cliente x1= new Cliente();
+		
+		System.out.print("------------------------\n");
+		
+		Cliente x2= new Cliente();
+		x2.sexo= "Feminino";
+		x2.idade= 21;
+		x2.altura= 1.77;
+		x2.peso = 97.45;
+		
+	}
+
+}

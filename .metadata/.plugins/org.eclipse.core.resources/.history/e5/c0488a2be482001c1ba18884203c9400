@@ -1,0 +1,12 @@
+package cracteclasses;
+
+public class Funcionario {
+	String nome;
+	int idade, regs, tempo;
+	
+	public void status(){
+		System.out.print("O nome do funcionário é "+this.nome+" com idade de "+this.idade+" , de registro "+this.regs+" "
+				+ "está trabalhando há"+this.tempo+" anos.");
+	}
+	
+}

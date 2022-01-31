@@ -1,0 +1,34 @@
+package cracteclasses;
+
+public class Cliente {
+	
+	//atributos
+	String sexo;
+	int idade;
+	float al, peso;
+	boolean feliz;
+	
+	//metodos
+	public void humor()
+	{
+		this.feliz=true;
+	}
+	
+	public void maiordeidade()
+	{
+		if(this.idade>=18)
+			System.out.println("Você é maior de idade");
+		else
+			System.out.println("Você é menos de idade");
+	}
+	
+	public void status() {
+		System.out.println("O sexo da pessoa é ", this.sexo);
+		System.out.println("A idade da pessoa é de: ", this.idade);
+		System.out.println("A alta e peso são respectivamente: "+ this.al+ " e "+ this.peso+".")
+	}
+	
+	
+	
+
+}
